@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/org/deepin/appearance-opacity-example/">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
